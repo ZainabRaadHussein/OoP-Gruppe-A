@@ -1,5 +1,5 @@
 
-# 📊 Sensor Monitor Dashboard
+# 📊 Sensor Monitor Dashboard (Gruppe-A)
 
 Ein interaktives PyQt6-Dashboard zur Visualisierung und Analyse simulierten Temperaturdaten mit zusätzlichen Funktionen wie Kamera-Livestream, CSV-Export, Snapshot- und Videoaufzeichnung.
 
