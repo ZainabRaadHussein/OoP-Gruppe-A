@@ -94,29 +94,33 @@ Testen, als Gruppe abgestimmt, wodurch jeder jederzeit einen Überblick über da
 Gesamtprojekt hatte. Gleichzeitig hat aber auch jede Person eine konkrete Aufgabe 
 übernommen, um die Arbeit effizient zu strukturieren und Verantwortung zu verteilen. In der 
 folgenden Abbildung 1 sieht man die Verantwortung der einzelnen Projektmitglieder:
-
-Name 	Beiträge
-Yamen Alhammoud	Kamera- und Speicherfunktion 
-• Nutzung von OpenCV zur Anzeige von Live-Bildern 
-• Speichern von Bildern und Videos in Ordnern 
-• Integration der Kamerabilder in die GUI 
-• CSV
-Yazan Alhammoud	Diagramme und Statistik-Update 
-• Datenvisualisierung 
-• Trendanalyse 
-• Statistische Auswertung von Sensorwerten 
-• Balkendiagramm
-Celine Wendt	Bedienelemente und Menüführung 
-• Start- und Stopp-Funktionen 
-• Steuerung der Sensor Datenübertragung 
-• Allgemeine Menüstruktur 
-• Tabs
-Zainab Raad Hussein Hussein	Benutzerinteraktion und Anzeige 
-• Themenauswahl via ComboBox 
-• Statistische Kennzahlen 
-• Frequenz-Slider und Eingabeelemente 
-• Timer
-
+|-------------------------------|-----------------------------------------------------------|
+|        Name                   |         Beiträge                                          |
+|-------------------------------|-----------------------------------------------------------|
+| Yamen Alhammoud               |    Kamera- und Speicherfunktion                           |
+|                               |    • Nutzung von OpenCV zur Anzeige von Live-Bildern      |
+|                               |    • Speichern von Bildern und Videos in Ordnern          |
+|                               |    • Integration der Kamerabilder in die GUI              |
+|                               |    • CSV                                                  |
+|-------------------------------|-----------------------------------------------------------|                                    
+| Yazan Alhammoud	              |    Diagramme und Statistik-Update                         | 
+|                               |    • Datenvisualisierung                                  |
+|                               |    • Trendanalyse                                         |
+|                               |    • Statistische Auswertung von Sensorwerten             |
+|                               |    • Balkendiagramm                                       |
+|-------------------------------|-----------------------------------------------------------|
+| Celine Wendt	                |    Bedienelemente und Menüführung                         |
+|                               |    • Start- und Stopp-Funktionen                          |
+|                               |    • Steuerung der Sensor Datenübertragung                | 
+|                               |    • Allgemeine Menüstruktur                              | 
+|                               |    • Tabs                                                 |
+|-------------------------------|-----------------------------------------------------------|
+| Zainab Raad Hussein Hussein	  |    Benutzerinteraktion und Anzeige                        |
+|                               |    • Themenauswahl via ComboBox                           |
+|                               |    • Statistische Kennzahlen                              |
+|                               |    • Frequenz-Slider und Eingabeelemente                  |
+|                               |    • Timer                                                |
+|-------------------------------|-----------------------------------------------------------|
 ## 🎯 Projektverlauf
 
 1. Ideenfindung
