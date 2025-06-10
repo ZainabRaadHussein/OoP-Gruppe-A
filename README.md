@@ -49,7 +49,7 @@ gestartet werden. Es sind keine weiteren Konfigurationsschritte notwendig – al
 werden beim ersten Start automatisch im lokalen Benutzerprofil gespeichert.
 
 ```bash
-pip install -r requirements.txt
+pip install pyqt6 pyqtgraph opencv-python pyttsx3 psutil
 python main.py
 ```
 
