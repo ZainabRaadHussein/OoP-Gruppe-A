@@ -88,13 +88,35 @@ python main.py
 ---
 
 ## 👥 Wer hat was gemacht?
+Die Umsetzung des Projekts erfolgte im Team und wurde von Anfang an gemeinsam geplant 
+und besprochen. Wir haben alle Schritte, vom ersten Entwurf über die Umsetzung bis hin zum 
+Testen, als Gruppe abgestimmt, wodurch jeder jederzeit einen Überblick über das 
+Gesamtprojekt hatte. Gleichzeitig hat aber auch jede Person eine konkrete Aufgabe 
+übernommen, um die Arbeit effizient zu strukturieren und Verantwortung zu verteilen. In der 
+folgenden Abbildung 1 sieht man die Verantwortung der einzelnen Projektmitglieder:
 
 | Name                          | Aufgabenbereiche                              |
 |------------------------------|-----------------------------------------------|
-| Alhammoud Yazan              | Hauptlogik, Statistik-Dashboard, Warnsystem   |
-| Alhammoud Yamen              | GUI-Design, Kamera-Integration, Snapshot      |
-| Hussein Zainab Raad Hussein | CSV-Export, Trendanalyse, Tabellenanzeige     |
-| Wendt Celine                 | Dark Mode, Benutzerwechsel, Präsentation      |
+| Alhammoud Yazan              | Diagramme und Statistik-Update 
+                               |• Datenvisualisierung 
+                               |• Trendanalyse 
+                               |• Statistische Auswertung von Sensorwerten 
+                               |• Balkendiagramm  |
+| Alhammoud Yamen              | Kamera- und Speicherfunktion 
+                               |• Nutzung von OpenCV zur Anzeige von Live-Bildern 
+                               |• Speichern von Bildern und Videos in Ordnern 
+                               |• Integration der Kamerabilder in die GUI 
+                               |• CSV      |
+| Hussein Zainab Raad Hussein  | Benutzerinteraktion und Anzeige 
+                               |• Themenauswahl via ComboBox 
+                               |• Statistische Kennzahlen 
+                               |• Frequenz-Slider und Eingabeelemente 
+                               |• Timer    |
+| Wendt Celine                 | Bedienelemente und Menüführung 
+                               |• Start- und Stopp-Funktionen 
+                               |• Steuerung der Sensor Datenübertragung 
+                               |• Allgemeine Menüstruktur 
+                               |• Tabs      |
 
 ---
 
