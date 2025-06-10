@@ -93,7 +93,7 @@ und besprochen. Wir haben alle Schritte, vom ersten Entwurf über die Umsetzung 
 Testen, als Gruppe abgestimmt, wodurch jeder jederzeit einen Überblick über das 
 Gesamtprojekt hatte. Gleichzeitig hat aber auch jede Person eine konkrete Aufgabe 
 übernommen, um die Arbeit effizient zu strukturieren und Verantwortung zu verteilen. In der 
-folgenden Abbildung 1 sieht man die Verantwortung der einzelnen Projektmitglieder:
+Hier sieht man die Verantwortung der einzelnen Projektmitglieder:
 | Name                          | Beiträge                                                                                         |
 |-------------------------------|--------------------------------------------------------------------------------------------------|
 | **Yamen Alhammoud**           | Kamera- und Speicherfunktion <br> • Nutzung von OpenCV zur Anzeige von Live-Bildern <br> • Speichern von Bildern und Videos in Ordnern <br> • Integration der Kamerabilder in die GUI <br> • CSV |
