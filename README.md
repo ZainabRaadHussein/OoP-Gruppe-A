@@ -7,7 +7,6 @@ Ein interaktives PyQt6-Dashboard zur Visualisierung und Analyse simulierten Temp
 
 ## 🧠 Projektbeschreibung
 
-Projektbeschreibung 
 Der Sensor Monitor ist eine interaktive Anwendung, mit der sich Temperaturdaten von 
 Sensoren in Echtzeit überwachen, analysieren und dokumentieren lassen. Entwickelt wurde das 
 Projekt im Rahmen eines Softwareentwicklungsprojekts mit Python und PyQt6. Ziel war es, 
