@@ -34,6 +34,19 @@ echten Mehrwert schaffen.
 ---
 
 ## ⚙️ Installation
+Damit der Sensor Monitor lokal ausgeführt werden kann, sind einige Voraussetzungen 
+notwendig. Zunächst muss Python in der Version 3.10 oder höher auf dem System installiert 
+sein. Die Anwendung basiert vollständig auf Python und nutzt keine externen ausführbaren 
+Programme, wodurch sie plattformunabhängig und leicht portierbar ist. 
+Nach der Installation von Python müssen die benötigten Bibliotheken über pip installiert 
+werden. Diese beinhalten unter anderem PyQt6 für die Benutzeroberfläche, PyQtGraph für die 
+grafische Darstellung der Daten, OpenCV für die Kamerafunktionen, pyttsx3 für die 
+Sprachausgabe und psutil zur Ermittlung der Systemauslastung. Die Installation erfolgt über 
+folgenden Befehl im Terminal oder in der Eingabeaufforderung: 
+• pip install pyqt6 pyqtgraph opencv-python pyttsx3 psutil 
+Nach erfolgreicher Installation kann die Anwendung direkt durch Ausführen der Python-Datei 
+gestartet werden. Es sind keine weiteren Konfigurationsschritte notwendig – alle Einstellungen 
+werden beim ersten Start automatisch im lokalen Benutzerprofil gespeichert.
 
 ```bash
 pip install -r requirements.txt
