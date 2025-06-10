@@ -7,7 +7,29 @@ Ein interaktives PyQt6-Dashboard zur Visualisierung und Analyse simulierten Temp
 
 ## 🧠 Projektbeschreibung
 
-Ziel war es, ein intuitives System zu entwickeln, das Sensordaten in Echtzeit überwacht, Grenzwertüberschreitungen erkennt, visualisiert und automatisch Benutzer*innen warnt. Erweiterte Funktionen ermöglichen statistische Auswertungen sowie multimediale Aufzeichnungen (Snapshot/Video).
+1 Projektbeschreibung 
+Der Sensor Monitor ist eine interaktive Anwendung, mit der sich Temperaturdaten von 
+Sensoren in Echtzeit überwachen, analysieren und dokumentieren lassen. Entwickelt wurde das 
+Projekt im Rahmen eines Softwareentwicklungsprojekts mit Python und PyQt6. Ziel war es, 
+eine benutzerfreundliche Oberfläche zu schaffen, die nicht nur Messwerte live darstellt, sondern 
+auch Auswertungen ermöglicht und praktische Zusatzfunktionen bietet. 
+Die Anwendung zeigt die Temperaturdaten in einem Live-Diagramm an und protokolliert alle 
+Werte automatisch in einer Tabelle, sodass der Verlauf jederzeit nachvollzogen werden kann. 
+Neben der reinen Anzeige werden auch statistische Kennzahlen wie Minimum, Maximum und 
+Durchschnitt berechnet und grafisch aufbereitet. Zusätzlich erkennt das System kritische 
+Wertebereiche und reagiert bei Überschreitungen mit visuellen Hinweisen und einer 
+Sprachausgabe als akustische Warnung. 
+Ein weiteres Highlight ist die integrierte Kamerafunktion. Damit kann man ein Livebild 
+anzeigen lassen, Schnappschüsse machen oder Videoaufnahmen starten – etwa zur zusätzlichen 
+Dokumentation von Umgebungsbedingungen. Auch ein Screenshot der Benutzeroberfläche 
+kann mit einem Klick erstellt werden. 
+Die Daten lassen sich bei Bedarf als CSV-Datei exportieren oder als PDF-Bericht ausgeben. 
+Darüber hinaus gibt es eine Druckfunktion, um Ergebnisse direkt zu Papier zu bringen. Die 
+Anwendung unterstützt sowohl einen hellen als auch einen dunklen Modus und passt die 
+Abtastrate automatisch an die aktuelle CPU-Auslastung an, um effizient zu arbeiten. So bietet 
+das Sensor Monitor eine umfassende Lösung zur Messwerterfassung und -auswertung mit 
+vielen nützlichen Funktionen, die im Alltag eines technischen oder wissenschaftlichen Projekts 
+echten Mehrwert schaffen. 
 
 ---
 
